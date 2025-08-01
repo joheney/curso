@@ -1,3 +1,14 @@
-ls  -> lista arquivos
-cd -> move entre diretórios
-pwd -> mostra diretórios de trabalho
+ls -> lista arquivos
+ls -a -> lista arquivos ocultos
+cd -> muda de diretorio.
+pwd -> mostra onde eu to
+mkdir name-> cria uma pasta chamada name
+rm -rf .nomePasta -> apaga uma pasta de modo recursivo
+cat nomepasta -> exibe conteúdo do arquivo
+
+----------------------------------------------------------------------------->
+
+git init . -> torna o diretorio atual um repositorio git.
+git status -> mostra como está o diretorio.
+git add -> ESCOLHE o que vai para o commit, mas NÃO é o commit.
+git commit -m "primeiro comit bash" -> esse comando que COMMITA.
