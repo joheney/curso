@@ -13,3 +13,6 @@ git status -> mostra como está o diretorio.
 git add -> ESCOLHE o que vai para o commit, mas NÃO é o commit.
 git commit -m "primeiro comit bash" -> esse comando que COMMITA.
 git log -> mostra um HISTORICO de todos os commits.
+
+git diff . -> mostra a diferença feita em TODOS os arquivos.
+git diff nomeArquivo -> mostra as alterações feitas em um arquivo isolado.
