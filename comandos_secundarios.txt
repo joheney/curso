@@ -3,3 +3,5 @@ para voce aprender e trabalhar com eles
 
 - primeiro comando
 - segundo comando
+- comandos genéricos
+- comandos estranhos
