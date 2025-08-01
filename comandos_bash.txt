@@ -4,7 +4,7 @@ cd -> muda de diretorio.
 pwd -> mostra onde eu to
 mkdir name-> cria uma pasta chamada name
 rm -rf .nomePasta -> apaga uma pasta de modo recursivo
-cat nomepasta -> exibe conteúdo do arquivo
+cat nomepasta -> mostra o que existe dentro da pasta
 
 ----------------------------------------------------------------------------->
 
@@ -12,3 +12,4 @@ git init . -> torna o diretorio atual um repositorio git.
 git status -> mostra como está o diretorio.
 git add -> ESCOLHE o que vai para o commit, mas NÃO é o commit.
 git commit -m "primeiro comit bash" -> esse comando que COMMITA.
+git log -> mostra um HISTORICO de todos os commits.

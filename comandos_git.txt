@@ -1,4 +1,5 @@
-git init . -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho de cada arquivo.
-git add nome_arquivo -> adiciona um arquivo para ser commitado.
-git commit -m "msg" -> commita o arquivo que o git add adicionou para ser comitado
+git init . -> torna o diretorio atual um repositorio git.
+git status -> mostra como está o diretorio.
+git add -> ESCOLHE o que vai para o commit, mas NÃO é o commit.
+git commit -m "primeiro comit bash" -> esse comando que COMMITA.
+git log -> mostra um HISTORICO de todos os commits.
