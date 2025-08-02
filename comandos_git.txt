@@ -1,8 +1,8 @@
-git init . -> torna o diretorio atual um repositorio git.
-git status -> mostra como está o diretorio.
-git add -> ESCOLHE o que vai para o commit, mas NÃO é o commit.
-git commit -m "primeiro comit bash" -> esse comando que COMMITA.
-git log -> mostra um HISTORICO de todos os commits.
+git init . 		-> Torna o diretorio atual um repositorio git.
+git status 		-> Mostra como está o diretorio.
+git add 		-> ESCOLHE o que vai para o commit, mas NÃO é o commit.
+git commit -m "primeiro comit bash" -> Esse comando que COMMITA.
+git log 		-> Mostra um HISTORICO de todos os commits.
 
 
 1 -> cria um repositório.
